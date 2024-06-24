@@ -17,7 +17,7 @@ I am excited about the opportunity to leverage my diverse skill set and passion 
 | Security Audit                                | <a href="https://docs.google.com/document/d/1BEzoRU9TNfVNE4zofeui2cjJQXUTQw7hxHaae3nDOIU/edit?usp=sharing">Scope, Goals, and Risk Assessment Report
 | Cybersecurity Incident Report                 | <a href="https://docs.google.com/document/d/1o4_dLLnXr0lsSBa3VvsFbzvw0Mdfw9r3JvGCD39SXNM/edit?usp=sharing">Incident Report, <a href="https://docs.google.com/document/d/1duazimBh01ZRFDRUb093mHquAgpRP3Rt6_75iUAg2Bw/edit?usp=sharing">Network Traffic Analysis                                                                         
 | SQL Query                                     | <a href="https://www.coursera.org/account/accomplishments/verify/GZX7YCHKHUVL">SQL Joins
-| Vunerable System Analysis "coming soon"       | 
+| Vunerable System Analysis                     | <a href="https://docs.google.com/document/d/1guzct_0yWP2Zg39Py97qIiwUlbKZ_HnZBXMDNs8q-nY/edit?usp=sharing">Vunerability Assessment Report
 | Incident Handlers Journal "coming soon"       | 
 
 ## Tools/OS/Languages
