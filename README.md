@@ -1,4 +1,4 @@
-# Hello, I'm Samara
+ified # Hello, I'm Samara
 Cybersecurity Specialist | Certified Google Cybersecurity Professional | Strategic Risk Management | Incident Response | Network Security and Threat Analysis | Certified Salesforce Administrator
 
 <a href="https://www.linkedin.com/in/samara-israel/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
